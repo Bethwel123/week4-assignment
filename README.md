@@ -7,7 +7,7 @@ This project is a collection of Python scripts that demonstrate various file han
 
 ## File Handling
 ### File Read & Write Challenge
-This script reads a file, modifies its content, and writes the modified content to a new file.
+This script reads a fileand writes the content to a new file.
 ### Error Handling Lab
 This script asks the user for a filename and handles errors if the file doesn't exist or can't be read.
 ## Getting Started
@@ -18,9 +18,9 @@ Run the scripts using Python.
 ## Usage
 ### File Read & Write Challenge
 Run the script file_read_
-write_challenge.py.
+files.py.
 Enter the name of the file to read.
-The script will read the file, modify its content, and write the modified content to a new file.
+The script will read the file and write the content to a new file.
 ### Error Handling Lab
 Run the script error_handling_lab.py.
 Enter the name of the file to read.
